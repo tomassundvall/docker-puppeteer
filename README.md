@@ -1,2 +1,2 @@
 # docker-puppeteer
-Docker puppeteer image
+Development image for puppeteer
